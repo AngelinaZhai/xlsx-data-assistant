@@ -9,4 +9,7 @@ Please make sure you have installed xlsxwriter and openpyxl. You can install the
 
 ## Explaination of Parts
 #### login_credential.txt
-This is a text file used to store the emails and passwords of users. 
+This is a text file used to store the emails and passwords of users. You can modify this document right now for testing purposes. Please make sure that the email address and the password is seperated by FIVE (5) spaces in between, and each email has its own line (as demonstrated in the file).
+
+#### Master_Directory.xlsx
+This is an Excel file with all student email and information in the format of Last Name, First Name, and Email Address. (It was designed this way because the school's system was able to export a list for the teacher in this format for every class).
